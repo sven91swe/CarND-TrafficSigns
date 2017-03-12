@@ -20,11 +20,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./images/trafficFromSet.png "Visualization"
-[image4]: ./images_web/3.png "Traffic Sign 1"
-[image5]: ./images_web/12.png "Traffic Sign 2"
-[image6]: ./images_web/13.png "Traffic Sign 3"
-[image7]: ./images_web/14.png "Traffic Sign 4"
-[image8]: ./images_web/38.png "Traffic Sign 5"
+
 
 ## Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
@@ -57,7 +53,7 @@ The code for this step is contained in the third code cell of the IPython notebo
 
 Here is an exploratory visualization of the data set. It is a bar chart showing how the data ...
 
-![alt text][image1]
+<img src="./images/trafficFromSet.png" width="200">
 
 ###Design and Test a Model Architecture
 
@@ -133,8 +129,11 @@ Both the number of epochs, learning rate and drop probablity was tuned in order 
 
 Here are five German traffic signs that I found on the web:
 
-![alt text][image4] ![alt text][image5] ![alt text][image6] 
-![alt text][image7] ![alt text][image8]
+<img src="./images_web/3.png" width="200">
+<img src="./images_web/12.png" width="200">
+<img src="./images_web/13.png" width="200">
+<img src="./images_web/14.png" width="200">
+<img src="./images_web/38.png" width="200">
 
 They are all good representation of german traffic signs but it was hard to find examples using google that would be difficult to classify.
 
