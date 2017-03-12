@@ -37,6 +37,11 @@ Here is an exploratory visualization of the data set. It is a image of traffic s
 
 <img src="./images/trafficFromSet.png" width="200">
 
+This is a histogram showing the fraction for the different kinds of signs in the given training set.
+
+<img src="./images/histogram.png" width="200">
+
+
 ###Design and Test a Model Architecture
 
 ####1. Describe how, and identify where in your code, you preprocessed the image data. What tecniques were chosen and why did you choose these techniques? Consider including images showing the output of each preprocessing technique. Pre-processing refers to techniques such as converting to grayscale, normalization, etc.
