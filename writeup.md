@@ -171,6 +171,7 @@ For the first image (Priority road) the top five soft max probabilities were
 
 
 For the second image (Speed limit (60km/h)) the top five soft max probabilities were
+
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
 | .997          		| Speed limit (60km/h)   						| 
@@ -181,6 +182,7 @@ For the second image (Speed limit (60km/h)) the top five soft max probabilities 
 
 
 For the third image (Keep right) the top five soft max probabilities were
+
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
 | .996         			| Keep right   							    	| 
@@ -191,6 +193,7 @@ For the third image (Keep right) the top five soft max probabilities were
 
 
 For the forth image (Stop) the top five soft max probabilities were
+
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
 | .996         			| Stop   					        			| 
@@ -200,11 +203,9 @@ For the forth image (Stop) the top five soft max probabilities were
 | .0001 			    | No passing for vehicles over 3.5 metric tons  |
 
 
-[  9.99692321e-01,   9.43428240e-05,   6.64958061e-05,
-          3.09245443e-05,   1.35551027e-05]
-                 [13, 15, 36, 12, 22]], dtype=int32))
 
 For the fith image (Yield) the top five soft max probabilities were
+
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
 | .999         			| Yield   			        					| 
