@@ -135,7 +135,9 @@ Here are five German traffic signs that I found on the web:
 <img src="./images_web/14.png" width="200">
 <img src="./images_web/38.png" width="200">
 
-They are all good representation of german traffic signs but it was hard to find examples using google that would be difficult to classify.
+They are all good representation of german traffic signs but it was hard to find examples using google that would be difficult to classify. 
+
+Some of them have some overlaying text but that should probably not be a problem as they as shrunk to 32x32 pixels before processing. The priority road sign might be difficult as some of the sign is outside of the image but for all others the sign is clearly visible with a rather distinct background.
 
 ####2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. Identify where in your code predictions were made. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compare the accuracy to the accuracy on the test set (OPTIONAL: Discuss the results in more detail as described in the "Stand Out Suggestions" part of the rubric).
 
