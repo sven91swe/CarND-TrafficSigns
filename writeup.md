@@ -39,7 +39,7 @@ Here is an exploratory visualization of the data set. It is a image of traffic s
 
 This is a histogram showing the fraction for the different kinds of signs in the given training set.
 
-<img src="./images/histogram.png" width="200">
+<img src="./images/histogram.png" width="800">
 
 
 ###Design and Test a Model Architecture
