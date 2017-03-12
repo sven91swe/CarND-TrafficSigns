@@ -33,7 +33,7 @@ signs data set:
 The code for this step is contained in the third code cell of the IPython notebook.  
 
 
-Here is an exploratory visualization of the data set. It is a bar chart showing how the data ...
+Here is an exploratory visualization of the data set. It is a image of traffic sign before preprocessing. All images are in color and 32 by 32 pixels large.
 
 <img src="./images/trafficFromSet.png" width="200">
 
