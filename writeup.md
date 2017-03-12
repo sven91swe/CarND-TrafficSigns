@@ -19,12 +19,12 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./images/trafficFromSet.png=200x200 "Visualization"
-[image4]: ./images_web/3.png=200x200 "Traffic Sign 1"
-[image5]: ./images_web/12.png=200x200 "Traffic Sign 2"
-[image6]: ./images_web/13.png=200x200 "Traffic Sign 3"
-[image7]: ./images_web/14.png=200x200 "Traffic Sign 4"
-[image8]: ./images_web/38.png=200x200 "Traffic Sign 5"
+[image1]: ./images/trafficFromSet.png =200x200 "Visualization"
+[image4]: ./images_web/3.png =200x200 "Traffic Sign 1"
+[image5]: ./images_web/12.png =200x200 "Traffic Sign 2"
+[image6]: ./images_web/13.png =200x200 "Traffic Sign 3"
+[image7]: ./images_web/14.png =200x200 "Traffic Sign 4"
+[image8]: ./images_web/38.png =200x200 "Traffic Sign 5"
 
 ## Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
